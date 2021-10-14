@@ -1,0 +1,2 @@
+local Character = "Yu Narukami"
+game:GetService("ReplicatedStorage").Remotes.Starter:FireServer(Character)
